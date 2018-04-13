@@ -1,0 +1,8 @@
+@import '~foundation-sites/scss/foundation';
+
+@include foundation-global-styles;
+
+
+.main {
+    background: solid red;
+}
